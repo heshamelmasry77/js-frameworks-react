@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  max-width: 90%;
+  margin: 1rem auto;
+  background-color: cyan;
+}
+
+h1 {
+  color: salmon;
+}
+
+p {
+  border: 0.5rem dotted gray;
+  color: #b01f1f;
+  padding: 1rem;
+  font-weight: 400;
+  text-align: left;
+  margin: 1rem;
+}
+
+ul {
+  list-style: inside;
+  padding-left: 0;
+}
+
+li {
+  padding: 1rem;
+}
+
+li:hover {
+  background-color: aliceblue;
+  cursor: pointer;
+}
