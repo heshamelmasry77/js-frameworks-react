@@ -1,0 +1,35 @@
+.App {
+
+}
+.container{
+  max-width: 90%;
+  margin:1rem auto ;
+  background-color: rgba(133, 130, 130, 0.415);
+  text-align: center;
+}
+
+h1{
+  color: blue;
+}
+p{
+  border: 0.5rem dotted grey;
+  color: gray;
+  padding: 2px;
+  text-align: left;
+  margin: 1rem;
+}
+ul{
+  padding-left: 0;
+  list-style: none;
+
+}
+li{
+  padding: 1rem;
+
+}
+
+li:hover{
+  color: blueviolet;
+}
+
+
