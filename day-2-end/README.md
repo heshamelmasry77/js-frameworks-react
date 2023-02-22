@@ -71,6 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Teaching Parts
 
+## Explaining Virtual DOM VIP ****
 ### 1. Using an Image in JSX:
  #### a. First the image is imported.  ```import logo from "./logo.svg";```
  #### b. Then used as the value of the src attribute in the img element ``` <img src={logo} /> ```
