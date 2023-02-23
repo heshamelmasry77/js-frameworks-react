@@ -71,18 +71,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Teaching Parts
 
-# 1. Show the end Result Project
+# 1. Show the end Result Project ✅
 # 2. Explain The App.js and how it works : The index.js is the entry point for the
 # whole app it goes and finds an element with an id of root `document.getElementById('root')`
-# and attach the App.js.
-# 3. the element with id ``root`` is in public folder in the ``index.html`` 
-# 4. Show how to add google fonts to react JS CRA project. Use the index.html
-# 5. Reminds that the CSS will be loaded before anything else , before even the JS gets loaded.
-# 6. Get rid of the initial styles on the project in the index.css
+# and attach the App.js. ✅
+# 3. the element with id ``root`` is in public folder in the ``index.html`` ✅
+# 4. Show how to add google fonts to react JS CRA project. Use the index.html  ✅
+# 5. Reminds that the CSS will be loaded before anything else , before even the JS gets loaded.  ✅
+# 6. Get rid of the initial styles on the project in the index.css  ✅
 # 7. use the new font-family we get from Google Fronts on the body tag
-# 8. Explain the App.js Functional component and how it works
-# 9. Explain why we use className to have classes and not class ( We use className because it is a reserved word in JS )
-# The code in the App.js looks like it is ``HTML`` but it not, it is JSX ( It is a mixer of JavaScript and HTML )
+# 8. Explain the App.js Functional component and how it works  ✅
+# 9. Explain why we use className to have classes and not class ( We use className because it is a reserved word in JS ) 
+# The code in the App.js looks like it is ``HTML`` but it not, it is JSX ( It is a mixer of JavaScript and HTML ) ✅
 # 10. Show how the logo is being imported and used.
 # 11. Start to code,  Delete everything in the App.js and start coding.
 # 12. Start at the App.js add class container
