@@ -1,0 +1,13 @@
+.App {
+}
+
+button {
+  width: 128px;
+  height: 128px;
+  font-size: 36px;
+}
+
+span {
+  margin: 0 16px;
+  font-size: 26px;
+}
