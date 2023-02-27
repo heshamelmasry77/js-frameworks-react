@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import "./sass/index.scss";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div>
+      <header>
+        <h1>Hello We are learning Adding sass to our React JS CRA Project</h1>
       </header>
+      <main>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque commodo ex quis ante sodales, id aliquam orci
+          eleifend. Ut sodales dui in pulvinar convallis. Nam semper tortor hendrerit, lacinia mauris ac, aliquet
+          mauris. Nullam laoreet, nisi vel fringilla faucibus, odio ligula rutrum sem, id interdum orci purus id nunc.
+          Donec tristique dictum velit, sed sollicitudin purus tempus et. Pellentesque et ultrices leo. Vestibulum
+          tincidunt lectus vel sem auctor consequat pellentesque semper nunc. Nunc pellentesque tincidunt est, sed
+          fermentum ex vehicula in. Ut sit amet est tortor.
+        </p>
+        <ul>
+          <li>One</li>
+          <li>Two</li>
+          <li>Three</li>
+        </ul>
+      </main>
     </div>
   );
 }
