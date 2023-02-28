@@ -8,6 +8,7 @@ const products = [
 ]
 
 function App() {
+
   const productList = products.map(({name, price, id}, index) => {
       if (index >= 2) {
         return null
