@@ -6,3 +6,14 @@
 
 ### A downside of using Styled Components is that you need to come up with even more names for components.
 https://medium.com/the-non-traditional-developer/beginners-guide-to-tagged-template-literals-in-javascript-202d1805e862
+
+
+### Topics we cover in the Example on Styled components
+1. Creating an JSX element using style components
+2. Creating a container JSX Tag
+3. Creating a theme component
+4. how to use the theme value in PageHeader
+5. creating a Form component
+6. Using props to pass different colour for the Input & nesting
+7. Having two btns ( Danger BTN example)
+8. use GlobalStyle
